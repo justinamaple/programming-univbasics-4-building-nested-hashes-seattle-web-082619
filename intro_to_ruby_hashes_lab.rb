@@ -31,8 +31,8 @@ def monopoly_with_third_tier
 	      :a => 0,
 	      :b => 0,
 	      :c => 0,
-	    }
-	    :names => 0
+	    },
+	    :names => []
 	  }
   }
 end
